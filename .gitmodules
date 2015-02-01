@@ -1,0 +1,9 @@
+[submodule "vagrant/puppet/modules/docker"]
+	path = vagrant/puppet/modules/docker
+	url = https://github.com/garethr/garethr-docker
+[submodule "vagrant/puppet/modules/stdlib"]
+	path = vagrant/puppet/modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib
+[submodule "vagrant/puppet/modules/apt"]
+	path = vagrant/puppet/modules/apt
+	url = https://github.com/puppetlabs/puppetlabs-apt.git
