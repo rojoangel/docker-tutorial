@@ -3,7 +3,7 @@
 	url = https://github.com/garethr/garethr-docker
 [submodule "vagrant/puppet/modules/stdlib"]
 	path = vagrant/puppet/modules/stdlib
-	url = https://github.com/puppetlabs/puppetlabs-stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
 [submodule "vagrant/puppet/modules/apt"]
 	path = vagrant/puppet/modules/apt
-	url = https://github.com/puppetlabs/puppetlabs-apt.git
+	url = https://github.com/puppetlabs/puppetlabs-apt
